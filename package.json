@@ -1,0 +1,9 @@
+{
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+    },
+  "dependencies": {
+    "puppeteer": "^23.1.1"
+  }
+}
